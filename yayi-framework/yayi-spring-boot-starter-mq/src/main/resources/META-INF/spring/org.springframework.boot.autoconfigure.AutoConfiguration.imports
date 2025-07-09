@@ -1,0 +1,3 @@
+com.yayi.cloud.framework.mq.redis.config.YudaoRedisMQProducerAutoConfiguration
+com.yayi.cloud.framework.mq.redis.config.YudaoRedisMQConsumerAutoConfiguration
+com.yayi.cloud.framework.mq.rabbitmq.config.YudaoRabbitMQAutoConfiguration

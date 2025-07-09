@@ -1,0 +1,2 @@
+com.yayi.cloud.framework.quartz.config.YudaoXxlJobAutoConfiguration
+com.yayi.cloud.framework.quartz.config.YudaoAsyncAutoConfiguration

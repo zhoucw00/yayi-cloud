@@ -1,0 +1,2 @@
+com.yayi.cloud.framework.tenant.config.TenantRpcAutoConfiguration
+com.yayi.cloud.framework.tenant.config.TenantAutoConfiguration

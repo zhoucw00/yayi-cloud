@@ -3,19 +3,19 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>cn.iocoder.cloud</groupId>
-    <artifactId>yudao</artifactId>
+    <groupId>com.yayi.cloud</groupId>
+    <artifactId>yayi-cloud</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
     <modules>
-        <module>yudao-dependencies</module>
-        <module>yudao-gateway</module>
-        <module>yudao-framework</module>
+        <module>yayi-dependencies</module>
+        <module>yayi-gateway</module>
+        <module>yayi-framework</module>
         <!-- Server 主项目 -->
-        <module>yudao-server</module>
+        <module>yayi-server</module>
         <!--  各种 module 拓展 -->
-        <module>yudao-module-system</module>
-        <module>yudao-module-infra</module>
+        <module>yayi-module-system</module>
+        <module>yayi-module-infra</module>
 <!--        <module>yudao-module-member</module>-->
 <!--        <module>yudao-module-bpm</module>-->
 <!--        <module>yudao-module-pay</module>-->
@@ -51,8 +51,8 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>cn.iocoder.cloud</groupId>
-                <artifactId>yudao-dependencies</artifactId>
+                <groupId>com.yayi.cloud</groupId>
+                <artifactId>yayi-dependencies</artifactId>
                 <version>${revision}</version>
                 <type>pom</type>
                 <scope>import</scope>

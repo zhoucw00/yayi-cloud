@@ -1,0 +1,3 @@
+com.yayi.cloud.framework.datapermission.config.DataPermissionAutoConfiguration
+com.yayi.cloud.framework.datapermission.config.DeptDataPermissionAutoConfiguration
+com.yayi.cloud.framework.datapermission.config.DataPermissionRpcAutoConfiguration

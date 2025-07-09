@@ -1,0 +1,3 @@
+com.yayi.cloud.framework.datasource.config.YudaoDataSourceAutoConfiguration
+com.yayi.cloud.framework.mybatis.config.YudaoMybatisAutoConfiguration
+com.yayi.cloud.framework.translate.config.YudaoTranslateAutoConfiguration

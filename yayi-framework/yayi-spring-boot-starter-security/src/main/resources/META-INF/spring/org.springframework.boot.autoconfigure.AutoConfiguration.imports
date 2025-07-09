@@ -1,0 +1,5 @@
+com.yayi.cloud.framework.security.config.YudaoSecurityRpcAutoConfiguration
+com.yayi.cloud.framework.security.config.YudaoSecurityAutoConfiguration
+com.yayi.cloud.framework.security.config.YudaoWebSecurityConfigurerAdapter
+com.yayi.cloud.framework.operatelog.config.YudaoOperateLogConfiguration
+com.yayi.cloud.framework.operatelog.config.YudaoOperateLogRpcAutoConfiguration
