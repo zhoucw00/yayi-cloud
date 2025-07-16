@@ -13,7 +13,7 @@ import static com.yayi.cloud.framework.common.util.collection.CollectionUtils.co
 /**
  * Array 工具类
  *
- * @author 芋道源码
+ * @author yayi
  */
 public class ArrayUtils {
 

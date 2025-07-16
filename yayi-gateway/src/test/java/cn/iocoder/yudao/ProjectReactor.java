@@ -20,13 +20,13 @@ import static java.io.File.separator;
  * <p>
  * 通过修改 groupIdNew、artifactIdNew、projectBaseDirNew 三个变量
  *
- * @author 芋道源码
+ * @author yayi
  */
 @Slf4j
 public class ProjectReactor {
 
-    private static final String GROUP_ID = "cn.iocoder.cloud";
-    private static final String ARTIFACT_ID = "yudao";
+    private static final String GROUP_ID = "com.yayi.cloud";
+    private static final String ARTIFACT_ID = "yayi";
     private static final String PACKAGE_NAME = "com.yayi.cloud";
     private static final String TITLE = "芋道管理系统";
 

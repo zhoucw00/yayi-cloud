@@ -1,2 +1,2 @@
-com.yayi.cloud.framework.redis.config.YudaoRedisAutoConfiguration
-com.yayi.cloud.framework.redis.config.YudaoCacheAutoConfiguration
+com.yayi.cloud.framework.redis.config.RedisAutoConfiguration
+com.yayi.cloud.framework.redis.config.CacheAutoConfiguration

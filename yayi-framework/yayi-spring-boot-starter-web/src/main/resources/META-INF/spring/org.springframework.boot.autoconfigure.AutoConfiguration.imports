@@ -1,6 +1,6 @@
-com.yayi.cloud.framework.apilog.config.YudaoApiLogAutoConfiguration
-com.yayi.cloud.framework.jackson.config.YudaoJacksonAutoConfiguration
-com.yayi.cloud.framework.swagger.config.YudaoSwaggerAutoConfiguration
-com.yayi.cloud.framework.web.config.YudaoWebAutoConfiguration
-com.yayi.cloud.framework.apilog.config.YudaoApiLogRpcAutoConfiguration
-com.yayi.cloud.framework.banner.config.YudaoBannerAutoConfiguration
+com.yayi.cloud.framework.apilog.config.ApiLogAutoConfiguration
+com.yayi.cloud.framework.jackson.config.JacksonAutoConfiguration
+com.yayi.cloud.framework.swagger.config.SwaggerAutoConfiguration
+com.yayi.cloud.framework.web.config.WebAutoConfiguration
+com.yayi.cloud.framework.apilog.config.ApiLogRpcAutoConfiguration
+com.yayi.cloud.framework.banner.config.BannerAutoConfiguration

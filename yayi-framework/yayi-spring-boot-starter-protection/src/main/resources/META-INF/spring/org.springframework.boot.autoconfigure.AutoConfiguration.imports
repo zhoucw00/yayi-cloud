@@ -1,4 +1,4 @@
-com.yayi.cloud.framework.idempotent.config.YudaoIdempotentConfiguration
-com.yayi.cloud.framework.lock4j.config.YudaoLock4jConfiguration
-com.yayi.cloud.framework.ratelimiter.config.YudaoRateLimiterConfiguration
-com.yayi.cloud.framework.signature.config.YudaoApiSignatureAutoConfiguration
+com.yayi.cloud.framework.idempotent.config.IdempotentConfiguration
+com.yayi.cloud.framework.lock4j.config.Lock4jConfiguration
+com.yayi.cloud.framework.ratelimiter.config.RateLimiterConfiguration
+com.yayi.cloud.framework.signature.config.ApiSignatureAutoConfiguration

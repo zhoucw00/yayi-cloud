@@ -1,2 +1,2 @@
-com.yayi.cloud.framework.tracer.config.YudaoTracerAutoConfiguration
-com.yayi.cloud.framework.tracer.config.YudaoMetricsAutoConfiguration
+com.yayi.cloud.framework.tracer.config.TracerAutoConfiguration
+com.yayi.cloud.framework.tracer.config.MetricsAutoConfiguration

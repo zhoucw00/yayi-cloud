@@ -14,8 +14,8 @@
 
     <name>${project.artifactId}</name>
     <description>
-        后端 Server 的主项目，通过引入需要 yudao-module-xxx 的依赖，
-        从而实现提供 RESTful API 给 yudao-ui-admin、yudao-ui-user 等前端项目。
+        后端 Server 的主项目，通过引入需要 yayi-module-xxx 的依赖，
+        从而实现提供 RESTful API 给 yayi-ui-admin、yayi-ui-user 等前端项目。
         本质上来说，它就是个空壳（容器）！
     </description>
     <url>https://github.com/YunaiV/ruoyi-vue-pro</url>
@@ -35,83 +35,83 @@
         <!-- 会员中心。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-member-server</artifactId>-->
+<!--            <artifactId>yayi-module-member-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
         <!-- 数据报表。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-report-server</artifactId>-->
+<!--            <artifactId>yayi-module-report-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
         <!-- 工作流。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-bpm-server</artifactId>-->
+<!--            <artifactId>yayi-module-bpm-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
         <!-- 支付服务。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-pay-server</artifactId>-->
+<!--            <artifactId>yayi-module-pay-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
         <!-- 微信公众号模块。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-mp-server</artifactId>-->
+<!--            <artifactId>yayi-module-mp-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
         <!-- 商城相关模块。默认注释，保证编译速度-->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-product-server</artifactId>-->
+<!--            <artifactId>yayi-module-product-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-promotion-server</artifactId>-->
+<!--            <artifactId>yayi-module-promotion-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-trade-server</artifactId>-->
+<!--            <artifactId>yayi-module-trade-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-statistics-server</artifactId>-->
+<!--            <artifactId>yayi-module-statistics-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
         <!-- CRM 相关模块。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-crm-server</artifactId>-->
+<!--            <artifactId>yayi-module-crm-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
         <!-- ERP 相关模块。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-erp-server</artifactId>-->
+<!--            <artifactId>yayi-module-erp-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
         <!-- AI 大模型相关模块。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-ai-server</artifactId>-->
+<!--            <artifactId>yayi-module-ai-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
         <!-- IoT 物联网相关模块。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-module-iot-biz</artifactId>-->
+<!--            <artifactId>yayi-module-iot-biz</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
@@ -144,7 +144,7 @@
         <dependency>
             <groupId>com.yayi.cloud</groupId>
             <artifactId>yayi-spring-boot-starter-rpc</artifactId>
-            <!-- 目的：yudao-server 单体启动，禁用 openfeign -->
+            <!-- 目的：yayi-server 单体启动，禁用 openfeign -->
             <exclusions>
                 <exclusion>
                     <groupId>org.springframework.cloud</groupId>

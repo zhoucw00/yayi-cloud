@@ -1,2 +1,2 @@
-com.yayi.cloud.framework.env.config.YudaoEnvWebAutoConfiguration
-com.yayi.cloud.framework.env.config.YudaoEnvRpcAutoConfiguration
+com.yayi.cloud.framework.env.config.EnvWebAutoConfiguration
+com.yayi.cloud.framework.env.config.EnvRpcAutoConfiguration

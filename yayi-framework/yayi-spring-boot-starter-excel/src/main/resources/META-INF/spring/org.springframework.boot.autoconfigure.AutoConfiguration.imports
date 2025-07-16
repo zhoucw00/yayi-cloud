@@ -1,2 +1,2 @@
-com.yayi.cloud.framework.dict.config.YudaoDictRpcAutoConfiguration
-com.yayi.cloud.framework.dict.config.YudaoDictAutoConfiguration
+com.yayi.cloud.framework.dict.config.DictRpcAutoConfiguration
+com.yayi.cloud.framework.dict.config.DictAutoConfiguration

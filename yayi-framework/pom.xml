@@ -20,7 +20,7 @@
 
         <module>yayi-spring-boot-starter-monitor</module>
         <module>yayi-spring-boot-starter-protection</module>
-<!--        <module>yudao-spring-boot-starter-config</module>-->
+<!--        <module>yayi-spring-boot-starter-config</module>-->
         <module>yayi-spring-boot-starter-job</module>
         <module>yayi-spring-boot-starter-mq</module>
         <module>yayi-spring-boot-starter-rpc</module>

@@ -100,7 +100,7 @@
         <!-- 服务保障相关 TODO 芋艿：暂时去掉 -->
 <!--        <dependency>-->
 <!--            <groupId>com.yayi.cloud</groupId>-->
-<!--            <artifactId>yudao-spring-boot-starter-protection</artifactId>-->
+<!--            <artifactId>yayi-spring-boot-starter-protection</artifactId>-->
 <!--        </dependency>-->
 
         <!-- 工具类相关 -->

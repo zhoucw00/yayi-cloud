@@ -6,7 +6,7 @@ spring:
     active: local
 
   codec:
-    max-in-memory-size: 10MB # 调整缓冲区大小https://gitee.com/zhijiantianya/yudao-cloud/pulls/176
+    max-in-memory-size: 10MB # 调整缓冲区大小https://gitee.com/zhijiantianya/yayi-cloud/pulls/176
 
   # Jackson 配置项
   jackson:
@@ -248,6 +248,6 @@ knife4j:
 
 --- #################### 芋道相关配置 ####################
 
-yudao:
+yayi:
   info:
     version: 1.0.0
