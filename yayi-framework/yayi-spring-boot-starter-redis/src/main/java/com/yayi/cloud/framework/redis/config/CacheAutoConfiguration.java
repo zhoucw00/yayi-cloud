@@ -25,7 +25,7 @@ import static com.yayi.cloud.framework.redis.config.RedisAutoConfiguration.build
  * Cache 配置类，基于 Redis 实现
  */
 @AutoConfiguration
-@EnableConfigurationProperties({CacheProperties.class, CacheProperties.class})
+@EnableConfigurationProperties({CacheProperties.class, YayiCacheProperties.class})
 @EnableCaching
 public class CacheAutoConfiguration {
 
